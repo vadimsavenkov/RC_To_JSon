@@ -1,0 +1,173 @@
+[
+   {
+      "student_id":1,
+      "student_name":"A",
+      "mark":78,
+      "course_id":1,
+      "course_name":"Biology",
+      "teacher":"Mr. D",
+      "weight":10
+   },
+   {
+      "student_id":2,
+      "student_name":"B",
+      "mark":78,
+      "course_id":1,
+      "course_name":"Biology",
+      "teacher":"Mr. D",
+      "weight":10
+   },
+   {
+      "student_id":3,
+      "student_name":"C",
+      "mark":78,
+      "course_id":1,
+      "course_name":"Biology",
+      "teacher":"Mr. D",
+      "weight":10
+   },
+   {
+      "student_id":1,
+      "student_name":"A",
+      "mark":87,
+      "course_id":1,
+      "course_name":"Biology",
+      "teacher":"Mr. D",
+      "weight":40
+   },
+   {
+      "student_id":2,
+      "student_name":"B",
+      "mark":87,
+      "course_id":1,
+      "course_name":"Biology",
+      "teacher":"Mr. D",
+      "weight":40
+   },
+   {
+      "student_id":3,
+      "student_name":"C",
+      "mark":87,
+      "course_id":1,
+      "course_name":"Biology",
+      "teacher":"Mr. D",
+      "weight":40
+   },
+   {
+      "student_id":1,
+      "student_name":"A",
+      "mark":95,
+      "course_id":1,
+      "course_name":"Biology",
+      "teacher":"Mr. D",
+      "weight":50
+   },
+   {
+      "student_id":2,
+      "student_name":"B",
+      "mark":15,
+      "course_id":1,
+      "course_name":"Biology",
+      "teacher":"Mr. D",
+      "weight":50
+   },
+   {
+      "student_id":3,
+      "student_name":"C",
+      "mark":95,
+      "course_id":1,
+      "course_name":"Biology",
+      "teacher":"Mr. D",
+      "weight":50
+   },
+   {
+      "student_id":1,
+      "student_name":"A",
+      "mark":32,
+      "course_id":2,
+      "course_name":"History",
+      "teacher":" Mrs. P",
+      "weight":40
+   },
+   {
+      "student_id":3,
+      "student_name":"C",
+      "mark":32,
+      "course_id":2,
+      "course_name":"History",
+      "teacher":" Mrs. P",
+      "weight":40
+   },
+   {
+      "student_id":1,
+      "student_name":"A",
+      "mark":65,
+      "course_id":2,
+      "course_name":"History",
+      "teacher":" Mrs. P",
+      "weight":60
+   },
+   {
+      "student_id":3,
+      "student_name":"C",
+      "mark":65,
+      "course_id":2,
+      "course_name":"History",
+      "teacher":" Mrs. P",
+      "weight":60
+   },
+   {
+      "student_id":1,
+      "student_name":"A",
+      "mark":78,
+      "course_id":3,
+      "course_name":"Math",
+      "teacher":" Mrs. C",
+      "weight":90
+   },
+   {
+      "student_id":2,
+      "student_name":"B",
+      "mark":78,
+      "course_id":3,
+      "course_name":"Math",
+      "teacher":" Mrs. C",
+      "weight":90
+   },
+   {
+      "student_id":3,
+      "student_name":"C",
+      "mark":78,
+      "course_id":3,
+      "course_name":"Math",
+      "teacher":" Mrs. C",
+      "weight":90
+   },
+   {
+      "student_id":1,
+      "student_name":"A",
+      "mark":40,
+      "course_id":3,
+      "course_name":"Math",
+      "teacher":" Mrs. C",
+      "weight":10
+   },
+   {
+      "student_id":2,
+      "student_name":"B",
+      "mark":40,
+      "course_id":3,
+      "course_name":"Math",
+      "teacher":" Mrs. C",
+      "weight":10
+   },
+   {
+      "student_id":3,
+      "student_name":"C",
+      "mark":40,
+      "course_id":3,
+      "course_name":"Math",
+      "teacher":" Mrs. C",
+      "weight":10
+   }
+]
